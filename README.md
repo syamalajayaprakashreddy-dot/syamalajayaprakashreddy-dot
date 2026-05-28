@@ -125,12 +125,12 @@ I'm a **Digital Marketing Specialist** based in **Dagenham, London 🇬🇧**, b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syamalajayaprakashreddy-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syamalajayaprakashreddy-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=syamalajayaprakashreddy-dot&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamalajayaprakashreddy-dot&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamalajayaprakashreddy-dot&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&cache_seconds=1800" alt="Top Languages" width="40%" />
 </p>
 
 ---
@@ -138,7 +138,7 @@ I'm a **Digital Marketing Specialist** based in **Dagenham, London 🇬🇧**, b
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syamalajayaprakashreddy-dot&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=syamalajayaprakashreddy-dot&theme=darkhub&no-frame=true&margin-w=4&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
