@@ -1,11 +1,12 @@
 <!-- Visitor Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=syamalajayaprakashreddy-dot&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat&logo=briefcase&logoColor=white" alt="Open to Work" />
 </p>
 
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Jayaprakash+Reddy;Digital+Marketing+Specialist;Founder+of+TrustPulse+AI;MBA+%7C+UEL+London+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Jayaprakash+Reddy;Digital+Marketing+Specialist;Founder+of+TrustPulse+AI;MBA+%7C+UEL+London+%F0%9F%87%AC%F0%9F%87%A7;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 ---
@@ -18,7 +19,64 @@ I'm a **Digital Marketing Specialist** based in **Dagenham, London 🇬🇧**, b
 - 📊 Passionate about **SEO, Paid Ads, Brand Strategy & AI-Powered Marketing**
 - 🎓 MBA Digital Marketing @ UEL | B.Tech ECE @ KHIT Guntur (JNTUK)
 - 💡 I love turning data into decisions and ideas into products
-- 🌍 Open to work — Remote · On-site · Hybrid · London
+- 🌍 **Open to work** — Remote · On-site · Hybrid · London
+
+---
+
+## 🟢 Open to Work
+
+> I'm actively looking for opportunities in **Digital Marketing**, **AI-Powered Marketing**, and **Growth Strategy** roles in London and Remote.
+
+| What I'm looking for | Details |
+|---|---|
+| 💼 Role | Digital Marketing Specialist / Manager |
+| 📍 Location | London (On-site / Hybrid / Remote) |
+| 🕐 Availability | Immediate |
+| 📧 Contact | [LinkedIn](https://www.linkedin.com/in/jayaprakash-reddy-syamala-188754370/) |
+
+---
+
+## 🚀 Featured Projects
+
+### 🔵 TrustPulse AI
+> AI-powered trust & credibility scoring platform for brands
+
+- Built a full-stack competitor trust analysis tool
+- Features: Trust score comparison, SEO analysis, brand credibility metrics
+- Tech: Python · Django · HTML · CSS · JavaScript
+- 🔗 [trustpulse-competitor](https://github.com/syamalajayaprakashreddy-dot/trustpulse-competitor) | [trustpulse-backend](https://github.com/syamalajayaprakashreddy-dot/trustpulse-backend) | [trustpulse-frontend](https://github.com/syamalajayaprakashreddy-dot/trustpulse-frontend)
+
+---
+
+### 🔴 Algorithm Reader
+> YouTube Algorithm spy tool built with Streamlit + Claude AI
+
+- Competitor spy, viral velocity tracker, SEO keyword finder
+- AI script generator powered by Claude AI
+- Tech: Python · Streamlit · Claude AI · Google APIs
+- 🔗 [Algorithm-Reader](https://github.com/syamalajayaprakashreddy-dot/Algorithm-Reader)
+
+---
+
+### 🟡 Icebust
+> Python-based marketing automation tool
+
+- Tech: Python
+- 🔗 [icebust](https://github.com/syamalajayaprakashreddy-dot/icebust)
+
+---
+
+## 🏆 Certifications & Achievements
+
+| Certification | Issuer | Status |
+|---|---|---|
+| 🎓 MBA Digital Marketing | University of East London | In Progress (2025) |
+| 🎓 B.Tech Electronics & Communication Engineering | JNTUK / KHIT Guntur | Completed (2024) |
+| 🔒 SIA Security Licence | Security Industry Authority, UK | Active |
+| 📊 Google Ads | Google | ✅ Certified |
+| 🌐 SEO Fundamentals | Industry | ✅ Completed |
+| 🤖 AI-Powered Marketing | Self-directed | ✅ Completed |
+| 🦠 COVID-19 Relief Volunteer | Community | ✅ Recognised |
 
 ---
 
