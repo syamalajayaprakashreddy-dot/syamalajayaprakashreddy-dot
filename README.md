@@ -138,7 +138,7 @@ I'm a **Digital Marketing Specialist** based in **Dagenham, London 🇬🇧**, b
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syamalajayaprakashreddy-dot&theme=darkhub&no-frame=true&margin-w=4&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=syamalajayaprakashreddy-dot&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
