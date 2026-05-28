@@ -126,7 +126,7 @@ I'm a **Digital Marketing Specialist** based in **Dagenham, London 🇬🇧**, b
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syamalajayaprakashreddy-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syamalajayaprakashreddy-dot&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=syamalajayaprakashreddy-dot&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
@@ -143,10 +143,10 @@ I'm a **Digital Marketing Specialist** based in **Dagenham, London 🇬🇧**, b
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syamalajayaprakashreddy-dot/syamalajayaprakashreddy-dot/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syamalajayaprakashreddy-dot&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
